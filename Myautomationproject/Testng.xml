@@ -21,6 +21,8 @@
 			<class name="com.inetbanking.testCases.TC_AddCustomerDDT" /> 
 			<class name="com.inetbanking.testCases.TC_LoginDDT_002" /> 
 			<class name="com.inetbanking.testCases.TC_AddCustomerTest_003" /> 
+			<class name="com.inetbanking.testCases.TC_Operations" /> 
+			<class name="com.inetbanking.testCases.TC_CheckboxOperations" /> 
 
 		</classes>
 

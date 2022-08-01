@@ -187,3 +187,25 @@
 2022-08-01 13:58:55,090 - ebanking -INFO - password provided
 2022-08-01 13:59:01,815 - ebanking -INFO - user name provided
 2022-08-01 13:59:01,935 - ebanking -INFO - password provided
+2022-08-01 22:47:23,470 - ebanking -INFO - User name is provided
+2022-08-01 22:47:23,731 - ebanking -INFO - Passsword is provided
+2022-08-02 00:01:36,679 - ebanking -INFO - User name is provided
+2022-08-02 00:01:36,797 - ebanking -INFO - Passsword is provided
+2022-08-02 00:01:45,482 - ebanking -INFO - Mousehover&clickaction is done
+2022-08-02 00:07:27,405 - ebanking -INFO - User name is provided
+2022-08-02 00:07:27,477 - ebanking -INFO - Passsword is provided
+2022-08-02 00:07:37,104 - ebanking -INFO - Mousehover&clicked on Selenium
+2022-08-02 00:07:41,648 - ebanking -INFO - RadioButton is selected
+2022-08-02 00:07:41,651 - ebanking -INFO - Test case is passed
+2022-08-02 00:20:01,364 - ebanking -INFO - User name is provided
+2022-08-02 00:20:01,443 - ebanking -INFO - Passsword is provided
+2022-08-02 00:20:11,034 - ebanking -INFO - Mousehover&clicked on Selenium
+2022-08-02 00:20:14,201 - ebanking -INFO - Mousehovered on Radio&check
+2022-08-02 00:20:25,903 - ebanking -INFO - RadioButton is selected
+2022-08-02 00:20:25,905 - ebanking -INFO - Test case is passed
+2022-08-02 00:20:56,963 - ebanking -INFO - User name is provided
+2022-08-02 00:20:57,030 - ebanking -INFO - Passsword is provided
+2022-08-02 00:21:05,816 - ebanking -INFO - Mousehover&clicked on Selenium
+2022-08-02 00:21:08,990 - ebanking -INFO - Mousehovered on Radio&check
+2022-08-02 00:21:20,671 - ebanking -INFO - Checkbox is selected
+2022-08-02 00:21:20,672 - ebanking -INFO - Test case is passed

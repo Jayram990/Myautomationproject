@@ -187,3 +187,25 @@
 2022-08-01 13:58:55,090 [main] INFO ebanking - password provided
 2022-08-01 13:59:01,815 [main] INFO ebanking - user name provided
 2022-08-01 13:59:01,935 [main] INFO ebanking - password provided
+2022-08-01 22:47:23,470 [TestNG-tests-1] INFO ebanking - User name is provided
+2022-08-01 22:47:23,731 [TestNG-tests-1] INFO ebanking - Passsword is provided
+2022-08-02 00:01:36,679 [TestNG-tests-1] INFO ebanking - User name is provided
+2022-08-02 00:01:36,797 [TestNG-tests-1] INFO ebanking - Passsword is provided
+2022-08-02 00:01:45,482 [TestNG-tests-1] INFO ebanking - Mousehover&clickaction is done
+2022-08-02 00:07:27,405 [TestNG-tests-1] INFO ebanking - User name is provided
+2022-08-02 00:07:27,477 [TestNG-tests-1] INFO ebanking - Passsword is provided
+2022-08-02 00:07:37,104 [TestNG-tests-1] INFO ebanking - Mousehover&clicked on Selenium
+2022-08-02 00:07:41,648 [TestNG-tests-1] INFO ebanking - RadioButton is selected
+2022-08-02 00:07:41,651 [TestNG-tests-1] INFO ebanking - Test case is passed
+2022-08-02 00:20:01,364 [TestNG-tests-1] INFO ebanking - User name is provided
+2022-08-02 00:20:01,443 [TestNG-tests-1] INFO ebanking - Passsword is provided
+2022-08-02 00:20:11,034 [TestNG-tests-1] INFO ebanking - Mousehover&clicked on Selenium
+2022-08-02 00:20:14,201 [TestNG-tests-1] INFO ebanking - Mousehovered on Radio&check
+2022-08-02 00:20:25,903 [TestNG-tests-1] INFO ebanking - RadioButton is selected
+2022-08-02 00:20:25,905 [TestNG-tests-1] INFO ebanking - Test case is passed
+2022-08-02 00:20:56,963 [TestNG-tests-1] INFO ebanking - User name is provided
+2022-08-02 00:20:57,030 [TestNG-tests-1] INFO ebanking - Passsword is provided
+2022-08-02 00:21:05,816 [TestNG-tests-1] INFO ebanking - Mousehover&clicked on Selenium
+2022-08-02 00:21:08,990 [TestNG-tests-1] INFO ebanking - Mousehovered on Radio&check
+2022-08-02 00:21:20,671 [TestNG-tests-1] INFO ebanking - Checkbox is selected
+2022-08-02 00:21:20,672 [TestNG-tests-1] INFO ebanking - Test case is passed
