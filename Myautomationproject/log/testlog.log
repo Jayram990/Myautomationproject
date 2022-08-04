@@ -209,3 +209,16 @@
 2022-08-02 00:21:08,990 - ebanking -INFO - Mousehovered on Radio&check
 2022-08-02 00:21:20,671 - ebanking -INFO - Checkbox is selected
 2022-08-02 00:21:20,672 - ebanking -INFO - Test case is passed
+2022-08-03 15:40:40,463 - ebanking -INFO - User name is provided
+2022-08-03 15:40:40,745 - ebanking -INFO - Passsword is provided
+2022-08-03 15:45:01,762 - ebanking -INFO - User name is provided
+2022-08-03 15:45:01,968 - ebanking -INFO - Passsword is provided
+2022-08-03 15:53:16,954 - ebanking -INFO - User name is provided
+2022-08-03 15:53:17,051 - ebanking -INFO - Passsword is provided
+2022-08-03 15:55:34,875 - ebanking -INFO - User name is provided
+2022-08-03 15:55:34,989 - ebanking -INFO - Passsword is provided
+2022-08-03 16:12:10,752 - ebanking -INFO - User name is provided
+2022-08-03 16:12:10,895 - ebanking -INFO - Passsword is provided
+2022-08-03 16:20:10,448 - ebanking -INFO - User name is provided
+2022-08-03 16:20:10,677 - ebanking -INFO - Passsword is provided
+2022-08-03 16:21:37,597 - ebanking -INFO - Webtable test passed

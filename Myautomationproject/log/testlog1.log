@@ -209,3 +209,16 @@
 2022-08-02 00:21:08,990 [TestNG-tests-1] INFO ebanking - Mousehovered on Radio&check
 2022-08-02 00:21:20,671 [TestNG-tests-1] INFO ebanking - Checkbox is selected
 2022-08-02 00:21:20,672 [TestNG-tests-1] INFO ebanking - Test case is passed
+2022-08-03 15:40:40,463 [TestNG-tests-1] INFO ebanking - User name is provided
+2022-08-03 15:40:40,745 [TestNG-tests-1] INFO ebanking - Passsword is provided
+2022-08-03 15:45:01,762 [TestNG-tests-1] INFO ebanking - User name is provided
+2022-08-03 15:45:01,968 [TestNG-tests-1] INFO ebanking - Passsword is provided
+2022-08-03 15:53:16,954 [TestNG-tests-1] INFO ebanking - User name is provided
+2022-08-03 15:53:17,051 [TestNG-tests-1] INFO ebanking - Passsword is provided
+2022-08-03 15:55:34,875 [TestNG-tests-1] INFO ebanking - User name is provided
+2022-08-03 15:55:34,989 [TestNG-tests-1] INFO ebanking - Passsword is provided
+2022-08-03 16:12:10,752 [TestNG-tests-1] INFO ebanking - User name is provided
+2022-08-03 16:12:10,895 [TestNG-tests-1] INFO ebanking - Passsword is provided
+2022-08-03 16:20:10,448 [TestNG-tests-1] INFO ebanking - User name is provided
+2022-08-03 16:20:10,677 [TestNG-tests-1] INFO ebanking - Passsword is provided
+2022-08-03 16:21:37,597 [TestNG-tests-1] INFO ebanking - Webtable test passed
