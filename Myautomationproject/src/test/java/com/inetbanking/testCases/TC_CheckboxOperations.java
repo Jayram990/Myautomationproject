@@ -13,7 +13,7 @@ import com.inetbanking.pageObjects.Operations;
 
 public class TC_CheckboxOperations extends BaseClass{
 	
-	@Test(groups = { "smoke" })
+	@Test
 	public void performcheckOperations() throws InterruptedException, IOException
 	{
         

@@ -23,6 +23,7 @@
 			<class name="com.inetbanking.testCases.TC_AddCustomerTest_003" /> 
 			<class name="com.inetbanking.testCases.TC_Operations" /> 
 			<class name="com.inetbanking.testCases.TC_CheckboxOperations" /> 
+			<class name="com.inetbanking.testCases.TC_VerifyWebTableDDT" /> 
 
 		</classes>
 

@@ -13,7 +13,7 @@ import com.inetbanking.pageObjects.Operations;
 
 public class TC_Operations extends BaseClass{
 
-	@Test(groups = { "smoke" })
+	@Test
 	public void performOperations() throws InterruptedException, IOException
 	{
         
