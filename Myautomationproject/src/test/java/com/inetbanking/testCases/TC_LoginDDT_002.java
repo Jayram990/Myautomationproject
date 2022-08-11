@@ -1,5 +1,6 @@
 package com.inetbanking.testCases;
 
+import java.awt.AWTException;
 import java.io.IOException;
 
 import org.openqa.selenium.NoAlertPresentException;
@@ -14,8 +15,8 @@ import com.inetbanking.utilities.XLUtils;
 public class TC_LoginDDT_002 extends BaseClass
 {
 
-	@Test(dataProvider="LoginData")
-	public void loginDDT(String user,String pwd) throws InterruptedException
+	@Test(dataProvider="LoginData",groups = { "smoke" })
+	public void loginDDT(String user,String pwd) throws InterruptedException, IOException, AWTException
 	{
 		LoginPage lp=new LoginPage(driver);
 		lp.setUserName(user);
@@ -27,20 +28,26 @@ public class TC_LoginDDT_002 extends BaseClass
 		Thread.sleep(3000);
 		
 		if(isAlertPresent()==true)
+			
 		{
+			captureScreenshotRobot("loginDDT");
 			driver.switchTo().alert().accept();//close alert
 			driver.switchTo().defaultContent();
+			logger.info("Login failed");
 			Assert.assertTrue(false);
-			logger.warn("Login failed");
+			
+			
 		}
 		else
 		{
+			
 			Assert.assertTrue(true);
 			logger.info("Login passed");
 			lp.clickLogout();
 			Thread.sleep(3000);
 			driver.switchTo().alert().accept();//close logout alert
 			driver.switchTo().defaultContent();
+			
 			
 		}
 		

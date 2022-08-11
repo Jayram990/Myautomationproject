@@ -17,7 +17,7 @@ import com.inetbanking.utilities.XLUtils;
 
 public class TC_VerifyWebTableDDT extends BaseClass{
 	
-	@Test(groups = { "smoke" })
+	@Test()
 	public void webtabletest() throws InterruptedException, IOException {
 		
 		LoginPage lp=new LoginPage(driver);

@@ -1,8 +1,15 @@
 package com.inetbanking.testCases;
 
+import java.awt.AWTException;
+import java.awt.Rectangle;
+import java.awt.Robot;
+import java.awt.Toolkit;
+import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
+
+import javax.imageio.ImageIO;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.RandomStringUtils;
@@ -75,6 +82,29 @@ public class BaseClass {
 		FileUtils.copyFile(source, target);
 		System.out.println("Screenshot taken");
 	}
+	
+	public void captureScreenshotRobot(String tname) throws IOException, AWTException {
+		
+         //try{
+			
+			// Creating Robot class object
+			Robot robotClassObject = new Robot();
+			
+			// Get screen size
+			Rectangle screenSize = new Rectangle(Toolkit.getDefaultToolkit().getScreenSize());
+			
+			// Capturing screenshot by providing size
+            BufferedImage tmp = robotClassObject.createScreenCapture(screenSize); 
+            
+            // Defining destination file path
+            String path=System.getProperty("user.dir")+"/Screenshots/"+tname+".png";
+            
+            // To copy temp image in to permanent file
+            ImageIO.write(tmp, "png",new File(path)); 
+            System.out.println("Screenshot taken");
+		
+	}
+	
 	
 	public String randomestring()
 	{

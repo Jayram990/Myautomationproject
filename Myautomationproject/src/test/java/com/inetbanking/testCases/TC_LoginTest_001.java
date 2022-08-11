@@ -13,7 +13,7 @@ import com.inetbanking.pageObjects.LoginPage;
 public class TC_LoginTest_001 extends BaseClass
 {
 
-	@Test(priority = 4)
+	@Test()
 	public void loginTest() throws IOException, InterruptedException 
 	{
 			

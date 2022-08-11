@@ -12,13 +12,13 @@
       </run>
     </groups>
     <classes>
-      <class name="com.inetbanking.testCases.TC_VerifyWebTableDDT">
+      <class name="com.inetbanking.testCases.TC_LoginDDT_002">
         <methods>
           <include name="tearDown"/>
           <include name="setup"/>
-          <include name="webtabletest"/>
+          <include name="loginDDT" invocation-numbers="1 2 3 4"/>
         </methods>
-      </class> <!-- com.inetbanking.testCases.TC_VerifyWebTableDDT -->
+      </class> <!-- com.inetbanking.testCases.TC_LoginDDT_002 -->
     </classes>
   </test> <!-- BankingApp Test(failed) -->
 </suite> <!-- Failed suite [InetBankingV1] -->
